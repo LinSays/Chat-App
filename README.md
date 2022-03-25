@@ -66,20 +66,6 @@ npm install
 
 http://`你的域名`/index.php?uid=`用户id`&username=`用户名`&room_id=`房间id`  
 
-范例：  
-
-http://socket.web/index.php?uid=1&username=konohanaruto&room_id=1
-
-适当调整这三个参数可实现同时多房间聊天，私聊。
-
-:smile::smile::smile:
-
-## License
-
-[Apache License 2.0](http://www.apache.org/licenses/)
-
-
-
 
 
 
